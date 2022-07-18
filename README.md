@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [alzywelzy.me/blogs](alzywelzy.me/blogs)
 
-- 💬 Ask me about **JavaScript, CSS.**
+- 💬 Ask me about **TypeScript, Svelte, Tailwind CSS, SvelteKit, Nodejs**
 
 - 📫 How to reach me **welzyalzy@gmail.com**
 
