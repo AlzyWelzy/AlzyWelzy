@@ -1,5 +1,5 @@
 # 💫 About Me:
-s
+ I am a Full Stack Web Developer with a passion for creating beautiful and user-friendly websites. I have a strong passion for learning new technologies and I am always looking for new opportunities to learn and grow. 
 
 
 # 💻 Tech Stack:
