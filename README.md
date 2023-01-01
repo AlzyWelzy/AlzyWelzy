@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a Full Stack Web Developer with a passion for creating beautiful and user-friendly websites. I have a strong passion for learning new technologies and I am always looking for new opportunities to learn and grow. 
+Hi, I'm a software engineer with a passion for creating innovative and intuitive solutions for complex problems. With a background in computer science and a strong foundation in various programming languages, I am constantly seeking out new challenges and opportunities to learn and grow as a developer. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver high-quality products. In my free time, you can find me tinkering with new technologies or contributing to open-source projects.
 
 
 # 💻 Tech Stack:
