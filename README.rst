@@ -2,12 +2,17 @@
 ============
 
 🔭 Currently building and creating with Python and JavaScript. Let’s
-chat and share ideas!👯 Ready to collaborate on Python and JavaScript
-projects. Let’s build something amazing together!🤝 Seeking support and
+chat and share ideas!
+👯 Ready to collaborate on Python and JavaScript
+projects. Let’s build something amazing together!
+🤝 Seeking support and
 guidance as I dive into Python and JavaScript. Let’s learn and grow
-together!🌱 Excited to learn and grow as a Python programmer. Let’s chat
-and share knowledge.💬 Python and JavaScript expert ready to geek out
-with fellow coders. Let’s chat!⚡ Fun fact: I love horror movies and
+together!
+🌱 Excited to learn and grow as a Python programmer. Let’s chat
+and share knowledge.
+💬 Python and JavaScript expert ready to geek out
+with fellow coders. Let’s chat!
+⚡ Fun fact: I love horror movies and
 can’t get enough of the thrill of fear they bring.
 
 💻 Tech Stack:
