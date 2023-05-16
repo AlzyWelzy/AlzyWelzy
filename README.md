@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building and creating with Python and JavaScript. Let’s chat and share ideas!<br>👯 Ready to collaborate on Python and JavaScript projects. Let’s build something amazing together!<br>🤝 Seeking support and guidance as I dive into Python and JavaScript. Let’s learn and grow together!<br>🌱 Excited to learn and grow as a Python programmer. Let’s chat and share knowledge.<br>💬 Python and JavaScript expert ready to geek out with fellow coders. Let’s chat!<br>⚡ Fun fact: I love horror movies and can’t get enough of the thrill of fear they bring.
+🔭 Currently building and creating with Python and JavaScript. Let’s chat and share ideas!<br>👯 Ready to collaborate on Python and JavaScript projects. Let’s build something amazing together!<br>🤝 Seeking support and guidance as I dive into Python and JavaScript. Let’s learn and grow together!<br>🌱 Excited to learn and grow as a Python programmer. Let’s chat and share knowledge.<br>💬 Python and JavaScript expert ready to geek out with fellow coders. Let’s chat!<br>⚡ Fun fact: I love horror movies and can’t get enough of the thrill of fear they bring
 
 
 ## 🌐 Socials:
