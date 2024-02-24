@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Currently building and creating with Django and Next.js. Let’s chat and share ideas!<br>👯 Ready to collaborate on Django and Next.js projects. Let’s build something amazing together!<br>🤝 Seeking support and guidance as I dive into Django and Next.js. Let’s learn and grow together!<br>🌱 Excited to learn and grow as a Full-stack developer. Let’s chat and share knowledge.<br>💬 Django and Next.js expert ready to geek out with fellow coders. Let’s chat!<br>⚡ Fun fact: I love horror movies and can’t get enough of the thrill of fear they bring.</p>
+<p align="left">🔭 Currently building and creating with Django. Let’s chat and share ideas!<br>👯 Ready to collaborate on Django projects. Let’s build something amazing together!<br>🤝 Seeking support and guidance as I dive into Django. Let’s learn and grow together!<br>🌱 Excited to learn and grow as a Full-stack developer. Let’s chat and share knowledge.<br>💬 Django expert ready to geek out with fellow coders. Let’s chat!<br>⚡ Fun fact: I love horror movies and can’t get enough of the thrill of fear they bring.</p>
 
 ###
 
